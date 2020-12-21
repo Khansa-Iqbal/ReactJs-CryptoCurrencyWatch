@@ -1,0 +1,33 @@
+.DisplayStyle {
+  display: flex;
+  /* marginLeft : 38%  */
+  justify-content: center;
+}
+.DropdownStyle {
+  background: #e91e63;
+  width: 400;
+  padding: 10px;
+}
+.Highlight {
+  color: #e91e63;
+}
+.CardStyle {
+  height: 30;
+  padding-top: 100%;
+}
+.Space {
+  padding: 30px 30px 30px 30px;
+}
+.Heading {
+  color: #e91e63;
+  font-family: cursive;
+}
+.LogoStyle {
+  width: 50;
+  height: 50;
+}
+.ChartStyle {
+  width: 720px;
+  display: flex;
+  margin-left: 30%;
+}
